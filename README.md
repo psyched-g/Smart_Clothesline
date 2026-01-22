@@ -1,6 +1,7 @@
 # Sensor-Based Automated Rain Protection System for Clothesline  
 ### Dual-Microcontroller IoT-Enabled Smart Automation
 
+### Collaborators: Joshua Thomas Koshy, Gautham Ganesh 
 This repository contains the complete implementation of a **sensor-based automated rain protection system for clotheslines** using a **dual-microcontroller architecture**.  
 The system enables **automatic rain-triggered protection** as well as **manual remote control** through a mobile application.
 
