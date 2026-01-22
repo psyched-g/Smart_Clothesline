@@ -1,4 +1,4 @@
-# 🌧️ Sensor-Based Automated Rain Protection System for Clothesline  
+# Sensor-Based Automated Rain Protection System for Clothesline  
 ### Dual-Microcontroller IoT-Enabled Smart Automation
 
 This repository contains the complete implementation of a **sensor-based automated rain protection system for clotheslines** using a **dual-microcontroller architecture**.  
@@ -8,22 +8,22 @@ The design is **universally adaptable** and can be installed on existing clothes
 
 ---
 
-## 🔧 Project Overview
+## Project Overview
 
 ### Key Features
-- 🌦️ Automatic rain detection and cloth protection
-- 📱 Mobile-based control using **Blynk IoT**
-- 🔁 Dual operation modes  
+- Automatic rain detection and cloth protection
+- Mobile-based control using **Blynk IoT**
+- Dual operation modes  
   - **Autonomous mode** (rain-based)
   - **Manual mode** (user-controlled)
-- 🧲 Hall-effect sensors for precise position detection
-- 🔗 UART-based communication between controllers
-- 🏠 Smart home–ready IoT architecture
-- 💰 Low-cost, modular, and scalable design
+- Hall-effect sensors for precise position detection
+- UART-based communication between controllers
+- Smart home–ready IoT architecture
+- Low-cost, modular, and scalable design
 
 ---
 
-## 🧠 System Architecture
+## System Architecture
 
 ### Dual-Microcontroller Design
 | Controller | Function |
@@ -39,7 +39,7 @@ The design is **universally adaptable** and can be installed on existing clothes
 
 ---
 
-## ⚙️ Hardware Components
+## Hardware Components
 
 | Component | Quantity |
 |---------|----------|
@@ -54,7 +54,7 @@ The design is **universally adaptable** and can be installed on existing clothes
 
 
 
-## 💻 Software Stack
+## Software Stack
 
 ### STM32 Firmware
 - Language: **Embedded C**
@@ -77,7 +77,7 @@ The design is **universally adaptable** and can be installed on existing clothes
 
 ---
 
-## 📱 Mobile Application (Blynk)
+## Mobile Application (Blynk)
 
 - Auto / Manual mode toggle
 - Forward / Reverse / Stop controls
